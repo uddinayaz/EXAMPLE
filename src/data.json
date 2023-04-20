@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "question": "Username/ Password not working",
+        "question": "Username/ Password not working?",
         "answer": "If your username or password is not working, please follow the steps below: Double-check if you are inputting the correct username/password. If the username/email address is correct, click on Forgot your password? link to change your current password. Check your email inbox: we will send you a password resent link Click on the password resent link Enter new password and submit."
     },
     {
@@ -11,14 +11,8 @@
     },
     {
         "id": "3",
-        "question": "How to 'Add another Field' in the 'Carbon Calculation' platform?",
-        "answer": "If your username or password is not working, please follow the steps below:",
-        "bullets":[  
-              "Double-check if you are inputting the correct username/password.",
-              "If the username/email address is correct, click on Forgot your password? link to change your current password.",
-              "Check your email inbox: we will send you a password resent link",
-              "Click on the password resent link",
-              "Enter new password and submit"
-            ]
+        "question": "'Platform link' is not working (Not loading/Showing error)",
+        "answer": "Check that the platform link is correct Check that the internet connection is working properly"
+            
     }
 ]
